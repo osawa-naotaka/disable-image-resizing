@@ -1,11 +1,11 @@
 <?php
 /*
   Plugin Name: Disable Image Resizing
-  Plugin URI:
+  Plugin URI: https://github.com/osawa-naotaka/disable-image-resizing
   Description: disable image resizing.
   Version: 1.0.0
   Author: Osawa Naotaka
-  Author URI: https://github.com/osawa-naotaka/disable-image-resizing
+  Author URI: https://github.com/osawa-naotaka
   License: MIT
  */
 
